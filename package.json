@@ -1,0 +1,17 @@
+{
+  "name": "viewer-extensions",
+  "version": "1.0.0",
+  "description": "Viewer extensions example repository",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "viewer",
+    "extensions"
+  ],
+  "author": "subhash85@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
